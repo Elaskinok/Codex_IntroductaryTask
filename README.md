@@ -9,27 +9,32 @@ For running application you must create a file with name "input.txt". The file m
 
 ## Application features
 
-- ### Create canvas
+- ### Create canvas 
 
-Command:    C w h
+        C w h
+
 w - width
+
 h - heigth
 
 - ### Draw line
 
-Command:    L x1 y1 x2 y2
+        L x1 y1 x2 y2
+
 x1, y1 - coordinates of 1st point
+
 x2, y2 - coordinates of 2nd point
 
 - ### Draw Rectangle
 
-Command:    R x1 y1 x2 y2
+        R x1 y1 x2 y2
 x1, y1 - coordinates of 1st point
+
 x2, y2 - coordinates of 2nd point
 
 - ### Bucket fill (fill area)
 
-Command:    B x y
+        B x y
 x, y - coordinates of point, which contained into field, which will be filled
 
 
