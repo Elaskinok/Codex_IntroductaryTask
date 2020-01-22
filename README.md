@@ -1,4 +1,4 @@
-# Codex_IntroductaryTask
+# Drawer
 
 This application allows to draw lines and rectangles on canvas. Also it allows fill closed area.
 All these actions can be displayed by pseudographics(in file "output.txt").
